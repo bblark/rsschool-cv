@@ -8,6 +8,7 @@
  + **Email:** bblark@gmail.com
  + **Location:** Moscow region
  + **GitHub:** [bblark](https://github.com/bblark/rsschool-cv)
+
 ---
 ## **About me**
 > A samurai has no goal, only path
@@ -21,6 +22,7 @@ And this path contains a bunch of technologies in web development that I am goin
    + CSS
    + JavaScript
    + Git
+
 ---
 ## **Code example**
 

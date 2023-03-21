@@ -3,15 +3,17 @@
 ---
 
 ## **Contacts**
-### 
+
+--- 
  + **Tel:** +79055444001
  + **Email:** bblark@gmail.com
  + **Location:** Moscow region
  + **GitHub:** [bblark](https://github.com/bblark/rsschool-cv)
 ---
 ## **About me**
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+> A samurai has no goal, only path
 
+And this path contains a bunch of technologies in web development that I am going to fulfil my background with.
 ---
 
 ## **Skills**
@@ -21,15 +23,35 @@
    + Git
 ---
 ## **Code example**
-Примеры кода
+
+Solution for kata **"Find The Parity Outlier"** from [Codewars](http://codewars.com)
+```
+function findOutlier(integers){
+  let odd=0;
+  let oddNumber;
+  let goddNumber;
+    for (let i=0 ; i<=integers.length-1; i++){
+      
+      if (integers[i]%2 == 0) {
+        odd++;
+        oddNumber=integers[i];
+        
+      } else {goddNumber=integers[i]}
+      
+    }
+  return odd>1 ? goddNumber : oddNumber;
+}
+```
 
 ---
 ## **Experience**
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+I have 10+ years experience in automotive business. So I believe that with RS Schools i will get knowledge in JS development and can cleverly combine business and technology.
 
 ---
 ## **Education**
-Образование (включая пройденные курсы и тренинги)
+ + [freeCodeCamp](http://freeCodeCamp.com)
+ + JavaScript Manual on learnjavascript.ru
+ + RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ---
 ## **Languange**

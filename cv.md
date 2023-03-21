@@ -4,7 +4,6 @@
 
 ## **Contacts**
 
---- 
  + **Tel:** +79055444001
  + **Email:** bblark@gmail.com
  + **Location:** Moscow region
@@ -14,6 +13,7 @@
 > A samurai has no goal, only path
 
 And this path contains a bunch of technologies in web development that I am going to fulfil my background with.
+
 ---
 
 ## **Skills**

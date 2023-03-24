@@ -1,3 +1,3 @@
 # rsschool-cv
-Rolling Scopes School
-CV: https://bblark.github.io/rsschool-cv/cv
+Rolling Scopes School <br/>
+CV: (https://bblark.github.io/rsschool-cv/)

@@ -1,0 +1,19 @@
+body {
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+}
+
+.wrap-container {
+    margin: 20px auto;
+}
+
+.columns {
+    display: flex;
+}
+.left-col{
+    width: 52%;
+    background-color: #2C3330;
+}
+.right-col{
+    width: 48%;
+}

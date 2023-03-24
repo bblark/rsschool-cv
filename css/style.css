@@ -10,3 +10,10 @@ body {
 .columns {
     display: flex;
 }
+.left-col{
+    width: 52%;
+    background-color: #2C3330;
+}
+.right-col{
+    width: 48%;
+}
